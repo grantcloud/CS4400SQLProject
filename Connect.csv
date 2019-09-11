@@ -1,0 +1,10 @@
+﻿SiteName,TransitType,TransitRoute
+Inman Park,MARTA,Blue
+Piedmont Park,MARTA,Blue
+Historic Fourth Ward Park,MARTA,Blue
+Westview Cemetery,MARTA,Blue
+Inman Park,Bus,152
+Piedmont Park,Bus,152
+Historic Fourth Ward Park,Bus,152
+Piedmont Park,Bike,Relay
+Historic Fourth Ward Park,Bike,Relay

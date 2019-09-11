@@ -1,0 +1,19 @@
+﻿Username,Password,Status,Firstname,Lastname,UserType
+james.smith,jsmith123,Approved,James,Smith,Employee
+michael.smith,msmith456,Approved,Michael,Smith,"Employee, Visitor"
+robert.smith,rsmith789,Approved,Robert ,Smith,Employee
+maria.garcia,mgarcia123,Approved,Maria,Garcia,"Employee, Visitor"
+david.smith,dsmith456,Approved,David,Smith,Employee
+manager1,manager1,Pending,Manager,One,Employee
+manager2,manager2,Approved,Manager,Two,"Employee, Visitor"
+manager3,manager3,Approved,Manager,Three,Employee
+manager4,manager4,Approved,Manager,Four,"Employee, Visitor"
+manager5,manager5,Approved,Manager,Five,"Employee, Visitor"
+maria.rodriguez,mrodriguez,Declined,Maria,Rodriguez,Visitor
+mary.smith,msmith789,Approved,Mary,Smith,Visitor
+maria.hernandez,mhernandez,Approved,Maria,Hernandez,User
+staff1,staff1234,Approved,Staff,One,Employee
+staff2,staff4567,Approved,Staff,Two,"Employee, Visitor"
+staff3,staff7890,Approved,Staff,Three,"Employee, Visitor"
+user1,user123456,Pending,User,One,User
+visitor1,visitor123,Approved,Visitor,One,Visitor

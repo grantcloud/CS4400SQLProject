@@ -1,0 +1,14 @@
+﻿Username,EmployeeID,Phone,EmployeeAddress,EmployeeCity,EmployeeState,EmployeeZipcode,EmployeeType
+james.smith,000000001,4043721234,123 East Main Street,Rochester,NY,14604,Admin
+michael.smith,000000002,4043726789,350 Ferst Drive,Atlanta,GA,30332,Staff
+robert.smith,000000003,1234567890,123 East Main Street,Columbus,OH,43215,Staff
+maria.garcia,000000004,7890123456,123 East Main Street,Richland,PA,17987,Manager
+david.smith,000000005,5124776435,350 Ferst Drive,Atlanta,GA,30332,Manager
+manager1,000000006,8045126767,123 East Main Street,Rochester,NY,14604,Manager
+manager2,000000007,9876543210,123 East Main Street,Rochester,NY,14604,Manager
+manager3,000000008,5432167890,350 Ferst Drive,Atlanta,GA,30332,Manager
+manager4,000000009,8053467565,123 East Main Street,Columbus,OH,43215,Manager
+manager5,000000010,8031446782,801 Atlantic Drive,Atlanta,GA,30332,Manager
+staff1,000000011,8024456765,266 Ferst Drive Northwest,Atlanta,GA,30332,Staff
+staff2,000000012,8888888888,266 Ferst Drive Northwest,Atlanta,GA,30332,Staff
+staff2,000000013,3333333333,801 Atlantic Drive,Atlanta,GA,30332,Staff

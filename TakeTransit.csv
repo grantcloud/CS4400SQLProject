@@ -1,0 +1,11 @@
+﻿Username,TransitType,TransitRoute,TransitDate
+manager2,MARTA,Blue,2019-03-20
+manager2,Bus,152,2019-03-20
+manager3,Bike,Relay,2019-03-20
+manager2,MARTA,Blue,2019-03-21
+maria.hernandez,Bus,152,2019-03-20
+maria.hernandez,Bike,Relay,2019-03-20
+manager2,MARTA,Blue,2019-03-22
+maria.hernandez,Bus,152,2019-03-22
+mary.smith,Bike,Relay,2019-03-23
+visitor1,MARTA,Blue,2019-03-21
